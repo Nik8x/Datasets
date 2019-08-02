@@ -9,3 +9,8 @@ https://data.consumerfinance.gov/api/views/s6ew-h6mp/rows.csv?accessType=DOWNLOA
 Publicly available large data sets for database research
 https://lemire.me/blog/2012/03/27/publicly-available-large-data-sets-for-database-research/
 http://rs.io/100-interesting-data-sets-for-statistics/
+
+311 Service Requests 7GB data
+https://data.cityofnewyork.us/Social-Services/311-Service-Requests/fvrb-kbbt
+download csv: https://data.cityofnewyork.us/api/views/fvrb-kbbt/rows.csv?accessType=DOWNLOAD
+download json: https://data.cityofnewyork.us/api/views/fvrb-kbbt/rows.json?accessType=DOWNLOAD
